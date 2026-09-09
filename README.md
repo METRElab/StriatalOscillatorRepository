@@ -1,2 +1,15 @@
-# Striatal-Oscillator-source-code-
-Building on the work of Murray and Escola (2017), this repository contains source code for a neural mass model of striatal MSNs capable of representing musical beat and metre. The model was completed in 2026 under the supervision of Dr Jonathan Cannon at McMaster University. For inquiries, please email me at diegoprieto2431@gmail.com
+# StriatalOscillatorRepository
+**Project title:** Modelling Metrical Representation in Mutually Inhibitory
+Medium Spiny Neurons of the Striatum
+
+**Author(s):** Diego Prieto, Dr. Jonathan Cannon
+
+**Date:** April 7 2026
+
+**Contact email(s):** diegoprieto2431@gmail.com
+
+**Project description:** It has been shown here that a neural mass model of mutually inhibitory striatal MSN clusters produces predictable cyclic activity sequences given uniform phasic excitatory input. This property is applied to the representation of duple and triple metres in two and three unit networks respectively. In its current form, the model may also be used to generate networks with a greater number of units, which could represent complex metrical structures more commonly encountered outside of western music.
+
+
+
+
